@@ -1,1 +1,1 @@
-"# basic-trig" 
+# Basic Trigonometric Functions
